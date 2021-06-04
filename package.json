@@ -1,13 +1,13 @@
 {
   "name": "express_js",
-  "version": "1.0.0",
+  "version": "14.17.0",
   "main": "express.js",
   "scripts": {
     "start": "express.js",
-    "dev":"express.js",
+ 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "vishnu",
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
@@ -17,6 +17,13 @@
     "mongoose": "^5.12.12"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnu2171-ship-it/My-new-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishnu2171-ship-it/My-new-blog/issues"
+  },
+  "homepage": "https://github.com/vishnu2171-ship-it/My-new-blog#readme"
 }
-
